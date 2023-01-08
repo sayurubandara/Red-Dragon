@@ -29,8 +29,8 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
-global.vcardowner = ['+94751312347'] // owner number
-global.ownername = "😎PL OWNER❯❯" // owner name
+global.vcardowner = ['+94757384227'] // owner number
+global.ownername = "😎SAYURU❯❯" // owner name
 global.ytname = "https://www.youtube.com/channel/UCtiEZpZRqfMdkGjZmzmWfbQ" // yt chanel name
 global.socialm = "GitHub: sayurubandara" // github or insta name
 global.location = "India, Mizoram, Aizawl" // location
@@ -47,8 +47,8 @@ global.upsongvoice = "false" // true/false \\ bot can upload song as voice note 
 global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 
-global.owner = ['+94751312347']
-global.ownertag = '+94751312347' //your tag number
+global.owner = ['+94757384227']
+global.ownertag = '+94757384227' //your tag number
 global.botname = '𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 - 𝘉𝘖𝘛' //ur bot name
 global.packname = "pixel lab" // sticker packname
 global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
@@ -56,7 +56,7 @@ global.dragonemoji = '🧩' // Menu emoji
 global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
 
 //database
-global.premium = ['+380944814219'] //ur premium numbers
+global.premium = ['+94757384227'] //ur premium numbers
 
 //other
 global.sessionName = 'session'
